@@ -1,0 +1,20 @@
+{
+  "name": "vite-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/z-god/vite-learning.git",
+  "author": "z-god <1476482763@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
