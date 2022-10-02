@@ -1,3 +1,4 @@
+![vite](vite.jpeg)
 # 什么是构建工具
 1. typescript
 2. React/vue
