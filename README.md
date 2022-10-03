@@ -1,4 +1,7 @@
-![vite](vite.jpeg)
+# vite概览
+![vite](./vitemind/vite.jpeg)
+# vite配置
+![vite](./vitemind/vite%E9%85%8D%E7%BD%AE.jpeg)
 # 什么是构建工具
 1. typescript
 2. React/vue
